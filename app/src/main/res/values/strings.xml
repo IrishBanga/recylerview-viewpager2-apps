@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Irish - Assignment 3 (Recycler View)</string>
+    <string name="ib_ecommerce_app">IB Autos</string>
+    <string name="product_image_content_description">productImage</string>
+    <string name="product_details_activity_header">Product Details</string>
+    <string name="product_description_text">Product Description</string>
+    <string name="product_name_text">Product Name</string>
+</resources>
